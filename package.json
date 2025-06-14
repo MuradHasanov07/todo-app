@@ -2,10 +2,10 @@
   "name": "todo-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://muradhasanov07.github.io/TO-DO-APP",
+  "homepage": "https://muradhasanov07.github.io/todo-app",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MuradHasanov07/TO-DO-APP.git"
+    "url": "https://github.com/MuradHasanov07/todo-app.git"
   },
   "dependencies": {
     "@emotion/react": "^11.11.4",
